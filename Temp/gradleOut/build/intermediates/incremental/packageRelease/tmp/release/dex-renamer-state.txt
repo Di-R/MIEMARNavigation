@@ -1,0 +1,4 @@
+#Wed Mar 25 16:46:58 MSK 2020
+base.0=/Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex

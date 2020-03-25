@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/pavelsamoylenko/.gradle/caches/transforms-2/files-2.1/7c62163272d576f4669a8f96f5339cc0/res/values/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "161,208,259,381,503",
+                        "endColumns": "46,50,121,121,83",
+                        "endOffsets": "207,258,380,502,586"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,106,161,287,413",
+                        "endColumns": "50,54,125,125,87",
+                        "endOffsets": "101,156,282,408,496"
+                    }
+                },
+                {
+                    "source": "/Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "2,2",
+                        "startOffsets": "53,114",
+                        "endColumns": "60,65",
+                        "endOffsets": "111,177"
+                    },
+                    "to": {
+                        "startLines": "7,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "501,564",
+                        "endColumns": "62,67",
+                        "endOffsets": "559,627"
+                    }
+                },
+                {
+                    "source": "/Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "5,2,7",
+                        "startColumns": "0,0,0",
+                        "startOffsets": "190,53,288",
+                        "endLines": "6,4,10",
+                        "endColumns": "8,8,8",
+                        "endOffsets": "286,188,513"
+                    },
+                    "to": {
+                        "startLines": "9,11,14",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "632,732,870",
+                        "endLines": "10,13,17",
+                        "endColumns": "8,8,8",
+                        "endOffsets": "727,865,1092"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{ED64E7B1-3854-1B2C-53E2-59213CB44F70}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Model/RoomDatabase.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Model/GoogleVisionAPIConnector.cs" Line="15" Column="64" />
+      <File FileName="Assets/Scripts/Model/TextDetection.cs" />
+      <File FileName="Assets/Scripts/Model/MarkerDatabase.cs" />
+      <File FileName="Assets/Scripts/Model/RoomDatabase.cs" Line="61" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MIEM AR Indoor Navigation" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1b4b8f6d-5af1-4d9b-8abb-75bdb39190e0" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

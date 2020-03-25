@@ -1,0 +1,247 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-37:12
+MERGED from [:arcore_client:] /Users/pavelsamoylenko/.gradle/caches/transforms-2/files-2.1/7c62163272d576f4669a8f96f5339cc0/AndroidManifest.xml:17:1-46:12
+MERGED from [:arcore_rendering_utils:] /Users/pavelsamoylenko/.gradle/caches/transforms-2/files-2.1/2dc85147a117915e0c35ee0f8021a77b/AndroidManifest.xml:2:1-11:12
+MERGED from [:arcore_unity:] /Users/pavelsamoylenko/.gradle/caches/transforms-2/files-2.1/d2555848af48133a87b08907cc3cb52c/AndroidManifest.xml:2:1-11:12
+MERGED from [:google_ar_required:] /Users/pavelsamoylenko/.gradle/caches/transforms-2/files-2.1/9647197b9becf09ff47993fdc99a1a20/AndroidManifest.xml:2:1-19:12
+MERGED from [:unityandroidpermissions:] /Users/pavelsamoylenko/.gradle/caches/transforms-2/files-2.1/c9f2df1fe826a8831e470bc64b3b9189/AndroidManifest.xml:6:1-15:12
+MERGED from [:unitygar:] /Users/pavelsamoylenko/.gradle/caches/transforms-2/files-2.1/df6e283a2970489764a02432d1805e4d/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:2:117-158
+		INJECTED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:2:183-208
+		INJECTED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:2:70-116
+	xmlns:android
+		ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:2:159-182
+		INJECTED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml
+	android:installLocation
+		ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:2:209-249
+uses-sdk
+ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:3:3-72
+INJECTED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:3:3-72
+INJECTED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:3:3-72
+MERGED from [:arcore_client:] /Users/pavelsamoylenko/.gradle/caches/transforms-2/files-2.1/7c62163272d576f4669a8f96f5339cc0/AndroidManifest.xml:26:5-28:41
+MERGED from [:arcore_client:] /Users/pavelsamoylenko/.gradle/caches/transforms-2/files-2.1/7c62163272d576f4669a8f96f5339cc0/AndroidManifest.xml:26:5-28:41
+MERGED from [:arcore_rendering_utils:] /Users/pavelsamoylenko/.gradle/caches/transforms-2/files-2.1/2dc85147a117915e0c35ee0f8021a77b/AndroidManifest.xml:7:5-9:41
+MERGED from [:arcore_rendering_utils:] /Users/pavelsamoylenko/.gradle/caches/transforms-2/files-2.1/2dc85147a117915e0c35ee0f8021a77b/AndroidManifest.xml:7:5-9:41
+MERGED from [:arcore_unity:] /Users/pavelsamoylenko/.gradle/caches/transforms-2/files-2.1/d2555848af48133a87b08907cc3cb52c/AndroidManifest.xml:7:5-9:41
+MERGED from [:arcore_unity:] /Users/pavelsamoylenko/.gradle/caches/transforms-2/files-2.1/d2555848af48133a87b08907cc3cb52c/AndroidManifest.xml:7:5-9:41
+MERGED from [:google_ar_required:] /Users/pavelsamoylenko/.gradle/caches/transforms-2/files-2.1/9647197b9becf09ff47993fdc99a1a20/AndroidManifest.xml:7:5-44
+MERGED from [:google_ar_required:] /Users/pavelsamoylenko/.gradle/caches/transforms-2/files-2.1/9647197b9becf09ff47993fdc99a1a20/AndroidManifest.xml:7:5-44
+MERGED from [:unityandroidpermissions:] /Users/pavelsamoylenko/.gradle/caches/transforms-2/files-2.1/c9f2df1fe826a8831e470bc64b3b9189/AndroidManifest.xml:11:5-13:41
+MERGED from [:unityandroidpermissions:] /Users/pavelsamoylenko/.gradle/caches/transforms-2/files-2.1/c9f2df1fe826a8831e470bc64b3b9189/AndroidManifest.xml:11:5-13:41
+MERGED from [:unitygar:] /Users/pavelsamoylenko/.gradle/caches/transforms-2/files-2.1/df6e283a2970489764a02432d1805e4d/AndroidManifest.xml:7:5-9:41
+MERGED from [:unitygar:] /Users/pavelsamoylenko/.gradle/caches/transforms-2/files-2.1/df6e283a2970489764a02432d1805e4d/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:3:3-72
+INJECTED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:3:3-72
+	android:targetSdkVersion
+		ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:3:40-69
+		INJECTED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:3:13-39
+		INJECTED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml
+supports-screens
+ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:4:3-163
+	android:largeScreens
+		ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:4:47-74
+	android:smallScreens
+		ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:4:104-131
+	android:normalScreens
+		ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:4:75-103
+	android:xlargeScreens
+		ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:4:132-160
+	android:anyDensity
+		ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:4:21-46
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:5:3-79
+	android:name
+		ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:5:20-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:6:3-73
+	android:name
+		ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:6:20-70
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:7:3-78
+	android:name
+		ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:7:20-75
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:8:3-74
+	android:name
+		ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:8:20-71
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:9:3-74
+	android:name
+		ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:9:20-71
+uses-feature#android.hardware.camera.ar
+ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:10:3-85
+MERGED from [:google_ar_required:] /Users/pavelsamoylenko/.gradle/caches/transforms-2/files-2.1/9647197b9becf09ff47993fdc99a1a20/AndroidManifest.xml:9:5-11:35
+MERGED from [:google_ar_required:] /Users/pavelsamoylenko/.gradle/caches/transforms-2/files-2.1/9647197b9becf09ff47993fdc99a1a20/AndroidManifest.xml:9:5-11:35
+	android:required
+		ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:10:59-82
+	android:name
+		ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:10:17-58
+application
+ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:11:3-29:17
+MERGED from [:arcore_client:] /Users/pavelsamoylenko/.gradle/caches/transforms-2/files-2.1/7c62163272d576f4669a8f96f5339cc0/AndroidManifest.xml:30:5-44:19
+MERGED from [:arcore_client:] /Users/pavelsamoylenko/.gradle/caches/transforms-2/files-2.1/7c62163272d576f4669a8f96f5339cc0/AndroidManifest.xml:30:5-44:19
+MERGED from [:google_ar_required:] /Users/pavelsamoylenko/.gradle/caches/transforms-2/files-2.1/9647197b9becf09ff47993fdc99a1a20/AndroidManifest.xml:13:5-17:19
+MERGED from [:google_ar_required:] /Users/pavelsamoylenko/.gradle/caches/transforms-2/files-2.1/9647197b9becf09ff47993fdc99a1a20/AndroidManifest.xml:13:5-17:19
+	android:label
+		ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:11:48-80
+	android:icon
+		ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:11:16-47
+	android:theme
+		ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:11:81-122
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:12:5-19:16
+	android:screenOrientation
+		ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:12:102-144
+	android:label
+		ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:12:69-101
+	android:launchMode
+		ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:12:145-176
+	android:hardwareAccelerated
+		ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:12:359-394
+	android:configChanges
+		ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:12:177-358
+	android:name
+		ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:12:15-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:13:7-16:23
+action#android.intent.action.MAIN
+ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:14:9-61
+	android:name
+		ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:14:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:15:9-69
+	android:name
+		ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:15:19-66
+meta-data#unityplayer.UnityActivity
+ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:17:7-82
+	android:value
+		ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:17:59-79
+	android:name
+		ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:17:18-58
+meta-data#android.notch_support
+ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:18:7-78
+	android:value
+		ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:18:55-75
+	android:name
+		ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:18:18-54
+activity#com.google.ar.core.InstallActivity
+ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:21:5-284
+MERGED from [:arcore_client:] /Users/pavelsamoylenko/.gradle/caches/transforms-2/files-2.1/7c62163272d576f4669a8f96f5339cc0/AndroidManifest.xml:37:9-43:80
+MERGED from [:arcore_client:] /Users/pavelsamoylenko/.gradle/caches/transforms-2/files-2.1/7c62163272d576f4669a8f96f5339cc0/AndroidManifest.xml:37:9-43:80
+	android:excludeFromRecents
+		ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:21:127-160
+	android:launchMode
+		ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:21:186-216
+	android:exported
+		ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:21:161-185
+	android:configChanges
+		ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:21:65-126
+	android:theme
+		ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:21:217-281
+	android:name
+		ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:21:15-64
+meta-data#com.google.ar.core
+ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:22:5-77
+MERGED from [:google_ar_required:] /Users/pavelsamoylenko/.gradle/caches/transforms-2/files-2.1/9647197b9becf09ff47993fdc99a1a20/AndroidManifest.xml:14:9-16:40
+MERGED from [:google_ar_required:] /Users/pavelsamoylenko/.gradle/caches/transforms-2/files-2.1/9647197b9becf09ff47993fdc99a1a20/AndroidManifest.xml:14:9-16:40
+	android:value
+		ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:22:50-74
+	android:name
+		ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:22:16-49
+meta-data#unity.tango-enable
+ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:23:5-73
+	android:value
+		ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:23:50-70
+	android:name
+		ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:23:16-49
+meta-data#unityplayer.SkipPermissionsDialog
+ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:24:5-88
+	android:value
+		ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:24:65-85
+	android:name
+		ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:24:16-64
+meta-data#unity.build-id
+ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:25:5-101
+	android:value
+		ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:25:46-98
+	android:name
+		ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:25:16-45
+meta-data#unity.splash-mode
+ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:26:5-69
+	android:value
+		ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:26:49-66
+	android:name
+		ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:26:16-48
+meta-data#unity.splash-enable
+ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:27:5-74
+	android:value
+		ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:27:51-71
+	android:name
+		ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:27:16-50
+meta-data#notch.config
+ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:28:5-81
+	android:value
+		ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:28:44-78
+	android:name
+		ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:28:16-43
+uses-feature#0x00020000
+ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:30:3-52
+	android:glEsVersion
+		ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:30:17-49
+uses-permission#android.permission.CAMERA
+ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:31:3-63
+	android:name
+		ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:31:20-60
+uses-permission#android.permission.INTERNET
+ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:32:3-65
+	android:name
+		ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:32:20-62
+uses-feature#android.hardware.touchscreen
+ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:33:3-88
+	android:required
+		ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:33:61-85
+	android:name
+		ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:33:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:34:3-99
+	android:required
+		ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:34:72-96
+	android:name
+		ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:34:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:35:3-108
+	android:required
+		ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:35:81-105
+	android:name
+		ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:35:17-80
+uses-permission#android.permission.CHANGE_WIFI_MULTICAST_STATE
+ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:36:3-84
+	android:name
+		ADDED from /Users/pavelsamoylenko/Documents/Unity Projects/MIEM AR Indoor Navigation/Temp/gradleOut/src/main/AndroidManifest.xml:36:20-81
+meta-data#com.google.ar.core.min_apk_version
+ADDED from [:arcore_client:] /Users/pavelsamoylenko/.gradle/caches/transforms-2/files-2.1/7c62163272d576f4669a8f96f5339cc0/AndroidManifest.xml:33:9-35:41
+	android:value
+		ADDED from [:arcore_client:] /Users/pavelsamoylenko/.gradle/caches/transforms-2/files-2.1/7c62163272d576f4669a8f96f5339cc0/AndroidManifest.xml:35:13-38
+	android:name
+		ADDED from [:arcore_client:] /Users/pavelsamoylenko/.gradle/caches/transforms-2/files-2.1/7c62163272d576f4669a8f96f5339cc0/AndroidManifest.xml:34:13-62
